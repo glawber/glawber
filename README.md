@@ -45,6 +45,7 @@
 * [cite_start]**Linux Kubernetes & DevOps Essentials** – 4Linux[cite: 71, 72].
 * [cite_start]**Liderança, Resiliência e Gestão de Pessoas** – PUCRS/Udemy[cite: 77, 78].
 
+
 ---
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -55,3 +56,5 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-512BD4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white)
