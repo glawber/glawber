@@ -1,5 +1,5 @@
 # GLAUBER BARBOSA DE SOUZA
-**Cloud & DevOps Specialist | SRE | Infrastructure Analyst** 📍 Rio de Janeiro, RJ | 📱 (21) 99022-7619 / (31) 99418-4382  
+**Cloud & DevOps Specialist | SRE | Infrastructure Analyst** 📍 Rio de Janeiro, RJ | 📱 
 📧 [glawber@gmail.com](mailto:glawber@gmail.com) | 🔗 [linkedin.com/in/glawberbarbosa](https://linkedin.com/in/glawberbarbosa) | 💻 [github.com/glawber](https://github.com/glawber)
 
 ---
