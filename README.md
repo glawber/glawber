@@ -44,3 +44,12 @@
 * [cite_start]**Scrum Foundation Professional (SFPC)**[cite: 37].
 * [cite_start]**Linux Kubernetes e DevOps Essentials** – 4Linux[cite: 71, 72].
 * [cite_start]**Liderança, Resiliência e Gestão de Pessoas** – PUCRS/Udemy[cite: 77, 78].
+
+
+
+![ArgoCD](https://img.shields.io/badge/Argo%20CD-ef7b4d?style=for-the-badge&logo=argo-cd&logoColor=white)
+![HashiCorp Vault](https://img.shields.io/badge/Vault-FF2E33?style=for-the-badge&logo=hashicorp-vault&logoColor=white)
+![AWS ECS](https://img.shields.io/badge/AWS%20ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
+![AWS Secrets Manager](https://img.shields.io/badge/AWS%20Secrets%20Manager-DD344C?style=for-the-badge&logo=aws-secrets-manager&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white)
