@@ -1,1 +1,46 @@
-GLAUBER BARBOSA DE SOUZACloud & DevOps Specialist | SRE | Infrastructure Analyst 📍 Rio de Janeiro, RJ | 📱 (21) 99022-7619 📧 glawber@gmail.com  | 🔗 linkedin.com/in/glawberbarbosa  | 💻 github.com/glawber🚀 Professional SummaryIT Infrastructure and Cloud specialist with a strong focus on SRE and Observability. Expertise in automating complex environments using Generative AI (Cursor, Claude) for delivery assurance and code refactoring. Extensive experience in advanced telemetry with Datadog, ElasticSearch, and MCP, alongside deep hands-on knowledge of AWS and Kubernetes ecosystems. Focused on operational efficiency, cost reduction (FinOps), and high availability within the healthcare, finance, and telecom sectors.🛠️ Technical SpecialtiesAI & Productivity: AI-assisted development with Cursor and Claude, script optimization, and DevOps workflow automation.Observability & Logs: Datadog (executive dashboards), ElasticSearch (log management), Grafana, Prometheus, and Zabbix.Cloud & Edge: AWS (EKS, RDS, Redshift, Lambda, CloudFront), MCP, Azure, OCI, and Cloudflare.Infrastructure as Code (IaC): Terraform (modules for RDS, EC2, Kafka, DMS).Containers & CI/CD: Docker, Kubernetes (EKS/AKS), GitHub/GitLab CI, and Jenkins.💼 Professional ExperienceDocPlanner (Feegow Technologies) | AWS Specialist Cloud/DevOps Analyst | 09/2022 – Present Architecting AWS solutions with a focus on security, scalability, and performance.Implementing Observability strategies using Datadog and ElasticSearch for critical service monitoring.Leveraging AI tools (Cursor and Claude) to modernize Terraform module creation and routine automation.Leading FinOps initiatives, ensuring financial efficiency and reducing operational costs.Itera Inteligência Artificial | DevOps & Infrastructure Engineer | 10/2021 – 08/2022 Result: Achieved a 40% reduction in cloud costs through automation standardization.Provisioning EKS and AKS clusters and implementing DevOps culture within development squads.BRScan Processamento de Dados | Infrastructure Analyst | 01/2019 – 05/2021 Managing hybrid environments and virtualization with VMware and XenServer.Proactive monitoring with Zabbix/Grafana and supporting ISO 9001 audits.PUC Minas | IT Technical Lead | 06/2007 – 12/2018 Leading critical support teams and implementing core solutions based on ITIL and Agile methodologies.🎓 Academic BackgroundPost-graduate Degree: Coaching and Innovation – PUC Minas (2018).Post-graduate Degree: IT Infrastructure Management – PUC Minas (2016).Bachelor's Degree: Computer Network Administration – Faculdade Pitágoras (2012).🏆 Certifications and CoursesAWS Cloud Practitioner (2023).OCI Foundations Associate (2022).Scrum Foundation Professional (SFPC).Linux Kubernetes and DevOps Essentials – 4Linux.Leadership, Resilience, and People Management – PUCRS/Udemy
+#GLAUBER BARBOSA DE SOUZA
+**Especialista em Nuvem e DevOps | SRE | Analista de Infraestrutura** 📍 Rio de Janeiro, RJ | 📱
+📧 [glawber@gmail.com](mailto:glawber@gmail.com) | 🔗 [linkedin.com/in/glawberbarbosa](https://linkedin.com/in/glawberbarbosa) | 💻 [github.com/glawber](https://github.com/glawber)
+
+---
+
+## 🚀Resumo Profissional
+[cite_start]Especialista em infraestrutura de TI e Cloud com foco em **SRE e Observabilidade**[cite: 13, 19]. Expertise em automação de ambientes complexos utilizando **IA Generativa (Cursor, Claude)** para garantia de entregas e refatoração de código. [cite_start]Sólida experiência em telemetria avançada com **Datadog, ElasticSearch e MCP**, além de vasta vivência em ecossistemas **AWS** e **Kubernetes**[cite: 15, 23, 24]. [cite_start]Focado em eficiência operacional, redução de custos (**FinOps**) e alta disponibilidade em setores de saúde, financeiro e telecom[cite: 14, 15].
+
+## 🛠️ Especialidades Técnicas
+* **IA & Produtividade:** Desenvolvimento assistido por IA com **Cursor** e **Claude**, otimização de scripts e automação de fluxos DevOps.
+* [cite_start]**Observabilidade & Logs:** **Datadog** (dashboards executivos), **ElasticSearch** (gestão de logs), Grafana, Prometheus e Zabbix[cite: 19, 21].
+* [cite_start]**Cloud & Edge:** **AWS** (EKS, RDS, Redshift, Lambda, CloudFront), **MCP**, Azure, OCI e Cloudflare[cite: 23, 47, 50].
+* [cite_start]**Infraestrutura como Código (IaC):** **Terraform** (módulos para RDS, EC2, Kafka, DMS)[cite: 15, 22].
+* [cite_start]**Containers e CI/CD:** Docker, Kubernetes (EKS/AKS), GitHub/GitLab CI e Jenkins[cite: 24, 44, 51].
+
+## 💼 Experiência Profissional
+
+### **DocPlanner (Feegow Technologies)** *Analista Cloud/DevOps Especialista AWS* | [cite_start]09/2022 – Atual [cite: 39, 40]
+* [cite_start]Arquitetura de soluções em AWS com foco em segurança, escalabilidade e desempenho[cite: 41, 46].
+* Implementação de estratégias de **Observabilidade** utilizando **Datadog** e **ElasticSearch** para monitoramento de serviços críticos.
+* Utilização de ferramentas de **IA (Cursor e Claude)** para atualização a criação de módulos Terraform e automação de rotinas.
+* [cite_start]Liderança de iniciativas de **FinOps**, garantindo eficiência financeira e redução de custos operacionais[cite: 45].
+
+### **Itera Inteligência Artificial** *Engenheiro DevOps & Infraestrutura* | [cite_start]10/2021 – 08/2022 [cite: 48, 49]
+* [cite_start]**Resultado:** Redução de **40% nos custos de nuvem** através de padronização de automação[cite: 53].
+* [cite_start]Provisionamento de clusters **EKS** e **AKS** e implementação de cultura DevOps em squads de desenvolvimento[cite: 51, 52].
+
+### **BRScan Processamento de Dados** *Analista de Infraestrutura* | [cite_start]01/2019 – 05/2021 [cite: 54, 55]
+* [cite_start]Gestão de ambientes híbridos e virtualização com VMware e XenServer[cite: 56].
+* [cite_start]Monitoramento proativo com Zabbix/Grafana e apoio a auditorias **ISO 9001**[cite: 57, 60].
+
+### **PUC Minas** *Líder Técnico de Informática* | [cite_start]06/2007 – 12/2018 [cite: 61, 62]
+* [cite_start]Liderança de equipe de suporte crítico e implantação de soluções básicas em ITIL e metodologias ágeis[cite: 63, 64].
+
+## 🎓 Formação Acadêmica
+* [cite_start]**Pós-graduação:** Coaching e Inovação – PUC Minas (2018)[cite: 28].
+* [cite_start]**Pós-graduação:** Gestão de Infraestrutura de TI – PUC Minas (2016)[cite: 29].
+* [cite_start]**Graduação:** Administração de Redes de Computadores – Faculdade Pitágoras (2012)[cite: 30].
+
+## 🏆 Certificações e Cursos
+* [cite_start]**AWS Cloud Practitioner** (2023)[cite: 32].
+* [cite_start]**Associado da OCI Foundations** (2022)[cite: 33].
+* [cite_start]**Scrum Foundation Professional (SFPC)**[cite: 37].
+* [cite_start]**Linux Kubernetes e DevOps Essentials** – 4Linux[cite: 71, 72].
+* [cite_start]**Liderança, Resiliência e Gestão de Pessoas** – PUCRS/Udemy[cite: 77, 78].
