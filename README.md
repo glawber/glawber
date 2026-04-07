@@ -46,4 +46,7 @@
 * [cite_start]**Liderança, Resiliência e Gestão de Pessoas** – PUCRS/Udemy[cite: 77, 78].
 
 ---
-*Fluência em Inglês Técnico voltada para reuniões e apresentações profissionais.*
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
